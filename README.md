@@ -1,4 +1,4 @@
-## Stock Market Real-Time Data Analysis Project via Kafka
+## Real-Time Stock Market Analytics with Kafka and AWS
 
 ## Introduction 
 In this project, have executed an End-To-End Data Engineering Project ~ An Automated ETL/ELT on Real-Time Stock Market Data using Kafka and AWS.
@@ -9,14 +9,14 @@ We are going to use different technologies such as Python, Amazon Web Services (
 <img src="Architecture.jpg">
 
 ## Technology Used
-- Programming Language - Python & SQL
+- Programming Language - Python, Pandas and SQL
 - Amazon Web Service (AWS)
 1. S3 (Simple Storage Service)
 2. Athena
 3. Glue Crawler
 4. Glue Catalog
 5. EC2
-- Apache Kafka
+- Apache Kafka, and Python Kafka Producer & Consumer
 
 
 ## Dataset Used
